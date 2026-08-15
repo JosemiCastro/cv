@@ -103,4 +103,4 @@ Creación de páginas web con gestores de contenido, posicionamiento SEO, análi
 
 ## Aptitudes principales
 
-`IA generativa` · `LLMs` · `RAG` · `Gemini` · `OpenAI` · `React` · `Node.js` · `PostgreSQL` · `n8n` · `SaaS` · `Git` · `SEO` · `Power BI` · `GA4` · `Looker Studio`
+`IA generativa` · `LLMs` · `RAG` · `Gemini` · `OpenAI` · `React` · `Node.js` · `PostgreSQL` · `n8n` · `SaaS` · `Git` · `SEO` · `Power BI` · `GA4`
