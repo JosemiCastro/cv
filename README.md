@@ -3,7 +3,7 @@
 **Generative AI Engineer · IA generativa, automatización, SaaS y SEO**  
 Sevilla, Andalucía, España
 
-[GitHub](https://github.com/Josemi-inf) · [Web](https://www.escandalodigital.com) · [X](https://x.com/castro_josemi)
+[GitHub](https://github.com/JosemiCastro) · [Web](https://www.escandalodigital.com) · [X](https://x.com/castro_josemi)
 
 ## Perfil
 
