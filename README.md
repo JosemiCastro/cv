@@ -18,6 +18,7 @@ Actualmente diseño e implemento soluciones basadas en modelos generativos, inte
 - **Automatización:** n8n y agentes de IA
 - **Productos digitales:** desarrollo de SaaS y aplicaciones con IA
 - **Datos y analítica:** Power BI, Google Analytics y Looker Studio
+- **Cloud:** Google Cloud Platform para proyectos, APIs e integraciones
 - **Marketing:** SEO y estrategia de contenido
 - **Control de versiones:** Git y GitHub
 
@@ -26,7 +27,7 @@ Actualmente diseño e implemento soluciones basadas en modelos generativos, inte
 ### Inficon Global
 
 #### Especialista en IA Generativa
-**Febrero de 2025 – actualidad · Sevilla**
+**Septiembre de 2024 – actualidad · Sevilla**
 
 Diseño, desarrollo e implemento soluciones basadas en IA generativa y automatización inteligente para optimizar procesos y crear productos SaaS reales.
 
@@ -43,13 +44,13 @@ Diseño, desarrollo e implemento soluciones basadas en IA generativa y automatiz
 
 - plataforma de gestión de facturas con análisis automático mediante IA;
 - monitorización de menciones en redes sociales en tiempo real;
-- automatización de llamadas con IA conversacional;
+- solución de IA conversacional en producción que gestiona más de 20.000 llamadas mensuales a leads de un grupo empresarial;
 - gestión y optimización de campañas publicitarias.
 
-#### Especialista en posicionamiento web
-**Junio de 2022 – mayo de 2025 · Sevilla**
+#### Especialista en posicionamiento web y desarrollo web
+**Junio de 2022 – septiembre de 2024 · Sevilla**
 
-Estrategia SEO, posicionamiento web, analítica y optimización de proyectos digitales.
+Estrategia digital, desarrollo web, posicionamiento, analítica y optimización de proyectos.
 
 ### Campus ELEA
 
